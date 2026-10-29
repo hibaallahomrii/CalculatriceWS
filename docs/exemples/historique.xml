@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://service.fss.tn/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ser:getHistorique/>
+   </soapenv:Body>
+</soapenv:Envelope>

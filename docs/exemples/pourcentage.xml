@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ser="http://service.fss.tn/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <ser:pourcentage><valeur>250</valeur><taux>20</taux></ser:pourcentage>
+   </soapenv:Body>
+</soapenv:Envelope>
