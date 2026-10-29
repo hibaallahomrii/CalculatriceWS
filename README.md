@@ -129,4 +129,4 @@ La division par zéro renvoie un **SOAP Fault typé** décrit dans le WSDL (`<ws
 
 ## Auteur
 
-*Votre nom* — LSI3-GLSI — Faculté des Sciences de Sfax
+*Hiba Allah Omri* — LSI3-GLSI — Faculté des Sciences de Sfax
